@@ -1,0 +1,19 @@
+
+A {
+color:black;
+text-decoration:none;
+font-size:9pt;
+}
+
+A:hover { background-color:black;
+color:white; }
+
+A:active { background-color:black;
+color:red; }
+
+body {
+background: white;
+color: black;
+font-family: Arial, Sans serif;
+}
+

@@ -1,0 +1,43 @@
+A {
+color:red;
+text-decoration:none;
+}
+
+A:hover {
+text-decoration:underline;
+color:red; 
+}
+
+A:active { background-color:black;
+color:red; 
+}
+
+
+body {
+background: white;
+color: black;
+font-family: Arial, Helvetica, Sans serif;
+}
+
+p {
+font-family: Arial, Helvetica, Sans serif;
+line-height: 1.5em;
+font-size: 10pt;
+color: #555555;
+}
+
+ol {
+font-family: Arial, Helvetica, Sans serif;
+line-height: 1.5em;
+font-size: 10pt;
+color: #555555;
+}
+
+
+.first {
+color: #000000;
+}
+
+.black {
+color: #000000;
+}
