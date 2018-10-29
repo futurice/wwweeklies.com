@@ -1,1 +1,1 @@
-# wwweeklies.github.io
+# wwweeklies.com
